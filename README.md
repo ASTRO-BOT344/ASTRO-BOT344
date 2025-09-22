@@ -1,4 +1,4 @@
-![Amongus rebolando](https://tenor.com/pt-BR/view/among-us-sus-sus-among-us-twerk-booty-gif-26374706) ## Olá, Mundo! 👋
+![Amongus rebolando](https://media.tenor.com/8xuIzvCK5kcAAAAi/among-us-sus.gif) ## Olá, Mundo! 👋
 
 ============================================================================================
 
