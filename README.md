@@ -1,4 +1,4 @@
-![Amongus rebolando](https://media.tenor.com/8xuIzvCK5kcAAAAi/among-us-sus.gif) <h1 style="font-size:60px;">Olá, Mundo! 👋</h1>
+<h1 style="font-size:60px;">Olá, Mundo! 👋 <img src="https://media.tenor.com/w8q3k7QW_G8AAAAe/among-us-sus.gif" width="60" alt="Among Us"></h1>
 
 ============================================================================================
 
