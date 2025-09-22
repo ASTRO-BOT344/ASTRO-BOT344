@@ -12,15 +12,15 @@ Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
 
 ---
 
-### Análise
+### Análise 🧠
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ASTRO-BOT344&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-NOME-DE-USUARIO&layout=compact&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ASTRO-BOT344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### Conquistas 
+### Conquistas 🏆
 
 [![Troféu do GitHub](https://github-profile-trophy.vercel.app/?username=ASTRO-BOT344&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -39,7 +39,7 @@ Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
 ---
 
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJkY2ZmZTQ0ZWU2OTllMDU1MzZkNjY2ZGY5MDhlMmQxYmFhZmFmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/w062d1Yc82vjF8k4hC/giphy.gif" alt="Bloco de interrogação" width="100">
+    <img src="https://media.giphy.com/media/LRgJjH62Kk6L9a5o7c/giphy.gif" alt="Bloco de interrogação" width="100">
 </p>
 
 <p align="center">
