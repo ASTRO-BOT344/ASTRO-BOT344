@@ -1,6 +1,6 @@
 ![Amongus rebolando](https://tenor.com/pt-BR/view/among-us-sus-sus-among-us-twerk-booty-gif-26374706) ## Olá, Mundo! 👋
 
-=================================================================================================
+============================================================================================
 
 Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
 
