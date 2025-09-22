@@ -6,7 +6,7 @@ Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
 
 ### Idiomas e Ferramentas 🛠
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow,blue)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
 
