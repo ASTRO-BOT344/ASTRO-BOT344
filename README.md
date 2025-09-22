@@ -4,6 +4,8 @@
 
 Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
 
+![Contador de Visitantes](https://komarev.com/ghpvc/?username=ASTRO-BOT344&label=VISITANTES&color=00ff55&style=plastic)
+
 ### Idiomas e Ferramentas 🛠
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -26,7 +28,6 @@ Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
 
 ---
 
-![Contador de Visitantes](https://komarev.com/ghpvc/?username=ASTRO-BOT344&label=VISITANTES&color=00ff55&style=plastic)
 
 
 ### Vamos nos conectar? 🤝
