@@ -4,7 +4,7 @@
 
 Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
 
-![Contador de Visitantes](https://komarev.com/ghpvc/?username=ASTRO-BOT344&label=VISITANTES&color=24283b&labelColor=2e324c&style=flat-square)
+![Contador de Visitantes](https://komarev.com/ghpvc/?username=ASTRO-BOT344&label=VISITANTES&color=0077B5&style=flat-square)
 
 ### Idiomas e Ferramentas 🛠
 
