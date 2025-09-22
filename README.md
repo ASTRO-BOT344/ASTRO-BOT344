@@ -9,9 +9,12 @@ Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
+
 ---
 
 ### Análise
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ASTRO-BOT344&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ASTRO-BOT344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
