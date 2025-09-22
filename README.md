@@ -1,4 +1,7 @@
-![Amongus rebolando](https://media.tenor.com/8xuIzvCK5kcAAAAi/among-us-sus.gif) ## Olá, Mundo! 👋
+
+                                                                                ## Olá, Mundo! 👋
+
+![Amongus rebolando](https://media.tenor.com/8xuIzvCK5kcAAAAi/among-us-sus.gif)
 
 ============================================================================================
 
