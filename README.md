@@ -14,7 +14,7 @@ Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
 
 ### Análise 🧠
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-NOME-DE-USUARIO&layout=compact&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ASTRO-BOT344&layout=compact&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ASTRO-BOT344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -39,7 +39,7 @@ Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
 ---
 
 <p align="center">
-    <img src="https://media.giphy.com/media/LRgJjH62Kk6L9a5o7c/giphy.gif" alt="Bloco de interrogação" width="100">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTUwZWw1MnZ4Zm5qZGZxOTVycWYxcDU5a2hwdXA3N2h3cTg4NmF3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5viI92PAF89q/giphy.gif" alt="Bloco de interrogação" width="100">
 </p>
 
 <p align="center">
