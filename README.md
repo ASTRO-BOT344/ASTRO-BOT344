@@ -16,17 +16,17 @@ Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
 
 ### Análise
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ASTRO-BOT344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### Conquistas
 
-[![Troféu do GitHub](https://github-profile-trophy.vercel.app/?username=SEU-NOME-DE-USUARIO&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Troféu do GitHub](https://github-profile-trophy.vercel.app/?username=ASTRO-BOT344&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-![Contador de Visitantes](https://komarev.com/ghpvc/?username=SEU-NOME-DE-USUARIO&label=VISITANTES&color=00ff55&style=plastic)
+![Contador de Visitantes](https://komarev.com/ghpvc/?username=ASTRO-BOT344&label=VISITANTES&color=00ff55&style=plastic)
 
 <!--
 **ASTRO-BOT344/ASTRO-BOT344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
