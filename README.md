@@ -9,7 +9,8 @@ Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
 ### Idiomas e Ferramentas 🛠
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+
 
 
 ---
