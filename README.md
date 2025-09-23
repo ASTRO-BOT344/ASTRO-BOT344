@@ -24,7 +24,7 @@ Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
 
 ### Conquistas 🏆
 
-[![Troféu do GitHub](https://github-profile-trophy.vercel.app/?username=ASTRO-BOT344&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Troféu do GitHub](https://github-profile-trophy.vercel.app/?username=ASTRO-BOT344&theme=tokyonight&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
