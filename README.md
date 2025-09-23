@@ -1,4 +1,4 @@
-<h1 style="font-size:60px;"><img src="https://media.tenor.com/8xuIzvCK5kcAAAAj/among-us-sus.gif" width="60" alt="Among Us"> Olá, Mundo! 👋</h1>
+<h1 style="font-size:60px;"><img src="https://media.tenor.com/8xuIzvCK5kcAAAAj/among-us-sus.gif" width="60" alt="Among Us"> Olá, Mundo! 👋</h1><img src="https://media.tenor.com/8xuIzvCK5kcAAAAj/among-us-sus.gif">
 
 ============================================================================================
 
