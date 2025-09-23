@@ -8,8 +8,8 @@ Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
 
 ### Idiomas e Ferramentas 🛠
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-666666?style=flat-square&logo=assemblyscript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 
 
