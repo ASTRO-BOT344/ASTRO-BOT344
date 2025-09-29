@@ -1,12 +1,22 @@
-<h1 style="font-size:60px;"><img src="https://media.tenor.com/8xuIzvCK5kcAAAAj/among-us-sus.gif" width="60" alt="Among Us"> Olá, Mundo! 👋</h1>
+<h1 align="center" style="font-size:60px;"><img src="https://media.tenor.com/8xuIzvCK5kcAAAAj/among-us-sus.gif" width="60" alt="Among Us"> Olá, Mundo! 👋</h1>
 
-============================================================================================
 
+
+
+---
+<p align="center">
 Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
+</p>
+
+
+---
 
 ![Contador de Visitantes](https://komarev.com/ghpvc/?username=ASTRO-BOT344&label=VISITANTES&color=0077B5&style=flat-square)
 
-### Idiomas e Ferramentas 🛠
+
+
+
+### linguagens de Interesse 🛠
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 
@@ -17,9 +27,16 @@ Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
 
 ### Análise 🧠
 
+<div align="center">
+    
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ASTRO-BOT344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+    
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ASTRO-BOT344&layout=compact&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ASTRO-BOT344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+>
+
 
 ---
 
