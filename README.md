@@ -31,7 +31,7 @@ Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
     
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ASTRO-BOT344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASTRO-BOT344&layout=compact&count_icons=true&theme=tokyonight&hide_border=true)
 </div>
 
 
