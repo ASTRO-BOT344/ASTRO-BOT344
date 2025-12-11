@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size:60px;"><img src="https://media.tenor.com/8xuIzvCK5kcAAAAj/among-us-sus.gif" width="60" alt="Among Us"> Olá, Mundo! 👋</h1>
+<h1 align="center" style="font-size:60px;"> Olá, Mundo! 👋</h1>
 
 
 
@@ -18,25 +18,18 @@ Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
 
 ### linguagens de Interesse 🛠
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="Csharp" width="40" height="40" />
 
 
 
 ---
+### Ferramentas de interesse
 
-### Análise 🧠
-
-<div align="center">
-    
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ASTRO-BOT344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASTRO-BOT344&layout=compact&count_icons=true&theme=tokyonight&hide_border=true)
-</div>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-original.svg" alt="Fusion" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"  alt="Dotnet" width="40" height="40" />
+          
+          
 
 ---
-
 ### Vamos nos conectar? 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caio-felix-5965032a7)
