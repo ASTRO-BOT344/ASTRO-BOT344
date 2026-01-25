@@ -1,13 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=120&section=header"/>
 
----
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D00FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo!;+Meu+none+é+Caio+Felix;Tenho+20+Anos+;Sou+Do+Brasil;Sou+Técnico+em+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D00FF&size=35&center=true&vCenter=true&width=1000&lines=System.out.println+"Olá,+Mundo!";+Meu+none+é+Caio+Felix;Tenho+20+Anos+;Sou+Do+Brasil;Sou+Técnico+em+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-
-
----
-
-![Contador de Visitantes](https://komarev.com/ghpvc/?username=ASTRO-BOT344&label=VISITANTES&color=0077B5&style=flat-square)
+<!--![Contador de Visitantes](https://komarev.com/ghpvc/?username=ASTRO-BOT344&label=VISITANTES&color=0077B5&style=for-the-badge)--> 
 
 
 
@@ -15,7 +10,7 @@
 ### linguagens de Interesse:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="50"/> 
-![Pyhton](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)&nbsp;
+<!--![Pyhton](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)&nbsp;-->
 
 
 ---
