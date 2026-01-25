@@ -1,12 +1,8 @@
-<h1 align="center" style="font-size:60px;"> Olá, Mundo! 👋</h1>
-
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=120&section=header"/>
 
 ---
-<p align="center">
-Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D00FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo!;+Meu+none+é+Caio+Felix;Tenho+20+Anos+;Sou+Do+Brasil;Sou+Técnico+em+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+
 
 
 ---
@@ -18,14 +14,14 @@ Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
 
 ### linguagens de Interesse 🛠
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="Csharp" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="50"/> 
 
 
 
 ---
 ### Ferramentas de interesse
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-original.svg" alt="Fusion" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"  alt="Dotnet" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-original.svg" alt="Fusion" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Arduino" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="Intellij" width="40" height="40" />
           
           
 
@@ -47,7 +43,7 @@ Meu nome é Caio Felix. Eu sou um Estudante e entusiata da programação.
   Dúvidas ou sugestões? Entre em contato comigo!
 </p>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=120&section=footer"/>
 <!--
 **ASTRO-BOT344/ASTRO-BOT344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
