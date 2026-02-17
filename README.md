@@ -39,9 +39,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA logo" /><br>IntelliJ IDEA
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL logo" /><br>PostgreSQL
-        <br><br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" width="50" height="50" alt="DBeaver CE logo" /><br>DBeaver CE
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySql logo" /><br>MySQL
+        <br>
       </td>
       <td align="center">
         <!--<img src="./assets/logos/AWS.png" width="50" height="50" alt="AWS logo" /><br>AWS
@@ -68,14 +67,6 @@
 <!--<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASTRO-BOT344&radius=16&theme=radical&area=true&order=5&hide_border=false&custom_title=Gráfico+de+Atividades" />
 </div>-->
-
----
-
-### 🐍 Minhas contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ASTRO-BOT344/ASTRO-BOT344/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
 
 ---
 ### Vamos nos conectar?
