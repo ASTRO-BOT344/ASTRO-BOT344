@@ -9,8 +9,13 @@
 
 
 
-<!--![Contador de Visitantes](https://komarev.com/ghpvc/?username=ASTRO-BOT344&label=VISITANTES&color=0077B5&style=for-the-badge)--> 
+<!--![Contador de Visitantes](https://komarev.com/ghpvc/?username=ASTRO-BOT344&label=VISITANTES&color=0077B5&style=for-the-badge)-->
+---
+###  Sobre mim:
 
+Meu nome é **Caio Felix**. Atualmente, sou graduando em **Engenharia de Software** e estou em processo de conclusão do curso técnico em Desenvolvimento de Sistemas. Apaixonado por tecnologia desde a infância, sempre tive curiosidade em entender o que acontece por trás das telas e como tudo funciona — o famoso **back-end**. Iniciei minha trajetória em **2022** como autodidata em **Python** e, posteriormente, migrei para o **Java**, que hoje é a minha linguagem favorita.
+
+---
 ### Habilidades && Ferramentas
 ---
 <div align="center">
@@ -57,7 +62,7 @@
 
 </div>
 
-###
+### Minhas estatísticas no GitHub
 ---
 <div align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ASTRO-BOT344&show_icons=true&theme=radical&hide_border=false&custom_title=Estatísticas+do+GitHub" />
