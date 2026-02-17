@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: Otavio2704
+          github_user_name: ASTRO-BOT344
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#eab308&color_dots=#1a1a1a,#ca8a04,#eab308,#facc15,#fde047
