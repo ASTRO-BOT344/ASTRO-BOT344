@@ -6,10 +6,6 @@
 
 
 
-
-
-
-<!--![Contador de Visitantes](https://komarev.com/ghpvc/?username=ASTRO-BOT344&label=VISITANTES&color=0077B5&style=for-the-badge)-->
 ---
 ###  Sobre mim:
 
@@ -48,15 +44,11 @@ Meu nome é **Caio Felix**. Atualmente, sou graduando em **Engenharia de Softwar
         <br>
       </td>
       <td align="center">
-        <!--<img src="./assets/logos/AWS.png" width="50" height="50" alt="AWS logo" /><br>AWS
-        <br>--><br>
+       <br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git logo" /><br>Git
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" /><br>GitHub
         <br><br>
-       <!-- <img src="./assets/logos/docker.png" width="50" height="50" alt="Docker logo" /><br>Docker
-      </td>-->
-    </tr>
   </tbody>
 </table>
 
@@ -68,10 +60,6 @@ Meu nome é **Caio Felix**. Atualmente, sou graduando em **Engenharia de Softwar
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ASTRO-BOT344&show_icons=true&theme=radical&hide_border=false&custom_title=Estatísticas+do+GitHub" />
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ASTRO-BOT344&layout=compact&theme=radical&hide_border=false&custom_title=Linguagens+Mais+Usadas" />
 </div>
-
-<!--<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASTRO-BOT344&radius=16&theme=radical&area=true&order=5&hide_border=false&custom_title=Gráfico+de+Atividades" />
-</div>-->
 
 ---
 ### Vamos nos conectar?
