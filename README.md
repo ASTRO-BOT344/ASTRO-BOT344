@@ -9,8 +9,33 @@
 ---
 ###  Sobre mim:
 
-Meu nome é **Caio Felix**. Atualmente, sou graduando em **Engenharia de Software** e estou em processo de conclusão do curso técnico em Desenvolvimento de Sistemas. Apaixonado por tecnologia desde a infância, sempre tive curiosidade em entender o que acontece por trás das telas e como tudo funciona — o famoso **back-end**. Iniciei minha trajetória em **2022** como autodidata em **Python** e, posteriormente, migrei para o **Java**, que hoje é a minha linguagem favorita.
+<!--Meu nome é **Caio Felix**. Atualmente, sou graduando em **Engenharia de Software** e estou em processo de conclusão do curso técnico em Desenvolvimento de Sistemas. Apaixonado por tecnologia desde a infância, sempre tive curiosidade em entender o que acontece por trás das telas e como tudo funciona — o famoso **back-end**. Iniciei minha trajetória em **2022** como autodidata em **Python** e, posteriormente, migrei para o **Java**, que hoje é a minha linguagem favorita.--> 
 
+```ts
+public record Developer(
+    String nome,
+    int idade,
+    String localizacao,
+    String educacao,
+    List<String> habilidades,
+    String objetivo,
+    String conquista
+) {
+    public static void main(String[] args) {
+        var caio = new Developer(
+            "Caio Felix",
+            21,
+            "Resende, RJ — Brasil",
+            "Engenheiro de Software & Desenvolvimento de Sistemas",
+            List.of("Java", "Python", "Spring Boot", "SQL"),
+            "Estágio / Engenheiro de Software em treinamento",
+            "Automated Pneumatic Systems Specialist 🏆"
+        );
+
+        System.out.println(caio);
+    }
+}
+```
 ---
 ### Habilidades && Ferramentas
 ---
@@ -56,10 +81,28 @@ Meu nome é **Caio Felix**. Atualmente, sou graduando em **Engenharia de Softwar
 
 ### Minhas estatísticas no GitHub
 ---
-<div align="center">
+<!-- <div align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ASTRO-BOT344&show_icons=true&theme=radical&hide_border=false&custom_title=Estatísticas+do+GitHub" />
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ASTRO-BOT344&layout=compact&theme=radical&hide_border=false&custom_title=Linguagens+Mais+Usadas" />
 </div>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ASTRO-BOT344&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ASTRO-BOT344&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ASTRO-BOT344&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASTRO-BOT344&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=ASTRO-BOT344&theme=tokyonight&hide_border=false" />
+</p> -->
+
+---
+| ![Estatísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ASTRO-BOT344&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ASTRO-BOT344&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ASTRO-BOT344&theme=radical) |
+|:-:|:-:|:-:|
+
+| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASTRO-BOT344&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=ASTRO-BOT344&theme=radical) |
+|:-:|:-:|
 
 ###  Certificações
 
