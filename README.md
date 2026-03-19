@@ -61,6 +61,32 @@ Meu nome é **Caio Felix**. Atualmente, sou graduando em **Engenharia de Softwar
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ASTRO-BOT344&layout=compact&theme=radical&hide_border=false&custom_title=Linguagens+Mais+Usadas" />
 </div>
 
+## 📜 Certifications
+
+<div align="center">
+
+| Badge | Certificate | Platform | Skills | Year |
+|:---:|:---|:---:|:---|:---:|
+| <img src="https://assets.dio.me/vGUIAyrhEF7neqi6ECqmDlljgASfame8vf5gnF2C8z4/f:webp/q:80/w:480/L3RyYWNrcy83ZjhjNWVmOS0xNmRiLTQyYTMtYjVkNS0xMTE0YjU5MWY0MmYucG5n" width="48"/> | **[JAVA && CLOUD DEVELOPMENT](https://hermes.dio.me/certificates/SQIUTITA.pdf)** | ![java](https://img.shields.io/badge/DIO-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | `Java` `SpringBoot` `IA Prompting` `Cloud` `Docker` | `2026` |
+| <img src="https://images.credly.com/size/340x340/images/8b1dd44e-9a13-420b-b755-d100b13f1321/image.png" width="48"/> | **[Technical Support Fundamentals](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~LHWDWQ4U1IG7/CERTIFICATE_LANDING_PAGE~LHWDWQ4U1IG7.jpeg)** | ![COURSERA](https://img.shields.io/badge/COURSERA-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | `Customer Support` `Technical Documentation` `Linux` `Computer Hardware` `Technical Support` `Computer Literacy` | `2026` |
+
+
+| <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/9b6070693c060fd651184cada92e3a45ee3db2fd.png" width="48"/> | **[Intro to AWS Boto in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/9b6070693c060fd651184cada92e3a45ee3db2fd)** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | `Python` `S3` `SNS` `Rekognition` | `2026` |
+
+
+
+| <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/84a2e126200f885cf9725b9d5c44af61ddda2fa3.png" width="48"/> | **[Deploying AI with FastAPI](https://www.datacamp.com/completed/statement-of-accomplishment/course/84a2e126200f885cf9725b9d5c44af61ddda2fa3)** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | `Python` `FastAPI` `ML Deploy` | `2026` |
+
+
+
+| <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/fd5ca1b51d44e85ea43461427ba31f30b7763e5b.png" width="48"/> | **[Introduction to AI Agents](https://www.datacamp.com/completed/statement-of-accomplishment/course/fd5ca1b51d44e85ea43461427ba31f30b7763e5b)** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | `AI Agents` `LLM` `RAG` `Multi-Agent` | `2026` |
+| <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/172e0e39c79355e3b191d025bd929db3a09ac377.png" width="48"/> | **[Introduction to APIs in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/172e0e39c79355e3b191d025bd929db3a09ac377)** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | `Python` `REST` `HTTP` `JSON` | `2026` |
+| <img src="https://images.credly.com/size/340x340/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" width="48"/> | **[Computer Hardware Basics](https://www.credly.com/badges/bef08558-4eba-456f-aae1-a3843f5558b5/linked_in_profile)** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | `Hardware` `Networking` `IT Fundamentals` | `2024` |
+
+</div>
+
+---
+
 
 
 ---
