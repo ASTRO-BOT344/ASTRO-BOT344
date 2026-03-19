@@ -1,72 +1,42 @@
-name: Update Top Repositories
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+python3 << 'EOF'
+          import json, urllib.request
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
+          # URL configurada para o seu usuário ASTRO-BOT344
+          url = 'https://api.github.com/users/ASTRO-BOT344/repos?per_page=100'
+          
+          # GitHub exige um User-Agent para chamadas de API via script
+          req = urllib.request.Request(url, headers={'User-Agent': 'Python-Script'})
+          
+          try:
+              with urllib.request.urlopen(req) as response:
+                  data = json.loads(response.read().decode())
+              
+              # Ordena por estrelas e pega os 3 primeiros
+              repos = sorted(data, key=lambda r: r.get('stargazers_count', 0), reverse=True)[:3]
 
-      - name: Build Section
-        run: |
-          python3 << 'EOF'
-          import json, subprocess
+              lines = []
+              lines.append('<div align="center">')
+              lines.append('')
+              lines.append('| 📦 Repositório | ⭐ Stars | 🍴 Forks | 🗣️ Linguagem |')
+              lines.append('|:---|:---:|:---:|:---:|')
 
-          result = subprocess.run(
-              ['curl', '-s', 'https://api.github.com/users/ASTRO-BOT344/repos?per_page=100'],
-              capture_output=True, text=True
-          )
-          repos = sorted(json.loads(result.stdout), key=lambda r: r.get('stargazers_count', 0), reverse=True)[:3]
+              for r in repos:
+                  name  = r.get('name', '')
+                  url_r = r.get('html_url', '')
+                  stars = r.get('stargazers_count', 0)
+                  forks = r.get('forks_count', 0)
+                  lang  = r.get('language') or '—'
+                  desc  = (r.get('description') or 'Sem descrição')[:60]
+                  lines.append(f'| [**{name}**]({url_r}) <br/> <sub>{desc}</sub> | ⭐ {stars} | 🍴 {forks} | `{lang}` |')
 
-          lines = []
-          lines.append('<div align="center">')
-          lines.append('')                                                                                                                    
-          lines.append('| 📦 Repositório | ⭐ Stars | 🍴 Forks | 🗣️ Linguagem |')
-          lines.append('|:---|:---:|:---:|:---:|')
+              lines.append('')
+              lines.append('</div>')
+              lines.append('')
 
-          for r in repos:
-              name  = r.get('name', '')
-              url   = r.get('html_url', '')
-              stars = r.get('stargazers_count', 0)
-              forks = r.get('forks_count', 0)
-              lang  = r.get('language') or '—'
-              desc  = (r.get('description') or '_Sem descrição_')[:60]
-              lines.append(f'| [**{name}**]({url}) <br/> <sub>{desc}</sub> | ⭐ {stars} | 🍴 {forks} | `{lang}` |')
-
-          lines.append('')
-          lines.append('</div>')
-          lines.append('')
-
-          with open('top_repos.md', 'w') as f:
-              f.write('\n'.join(lines))
-
-          print("Seção gerada com sucesso!")
+              with open('top_repos.md', 'w', encoding='utf-8') as f:
+                  f.write('\n'.join(lines))
+              print("Seção para ASTRO-BOT344 gerada com sucesso!")
+          except Exception as e:
+              print(f"Erro ao buscar repositórios: {e}")
+              exit(1)
           EOF
-
-      - name: Replace Section
-        run: |
-          awk '
-            /<!--TOP_REPOS_START-->/ {
-              print
-              while ((getline line < "top_repos.md") > 0) print line
-              close("top_repos.md")
-              skip=1
-              next
-            }
-            /<!--TOP_REPOS_END-->/ {
-              skip=0
-            }
-            !skip { print }
-          ' README.md > README.tmp
-          mv README.tmp README.md
-
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Atualizando Top 3 Repos automaticamente 🚀" || exit 0
-          git push
