@@ -57,14 +57,10 @@ Meu nome é **Caio Felix**. Atualmente, sou graduando em **Engenharia de Softwar
 ### Minhas estatísticas no GitHub
 ---
 <div align="center">
-
-| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=/ASTRO-BOT344&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=/ASTRO-BOT344&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=/ASTRO-BOT344&theme=radical) |
-|:-:|:-:|:-:|
-
-| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=/ASTRO-BOT344&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=/ASTRO-BOT344&theme=tokyonight&hide_border=false) |
-|:-:|:-:|
-
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ASTRO-BOT344&show_icons=true&theme=radical&hide_border=false&custom_title=Estatísticas+do+GitHub" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ASTRO-BOT344&layout=compact&theme=radical&hide_border=false&custom_title=Linguagens+Mais+Usadas" />
 </div>
+
 
 
 ---
