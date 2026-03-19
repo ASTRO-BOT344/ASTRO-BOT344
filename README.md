@@ -61,7 +61,7 @@ Meu nome é **Caio Felix**. Atualmente, sou graduando em **Engenharia de Softwar
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ASTRO-BOT344&layout=compact&theme=radical&hide_border=false&custom_title=Linguagens+Mais+Usadas" />
 </div>
 
-## 📜 Certifications
+###  Certificações
 
 <div align="center">
 
