@@ -36,8 +36,9 @@ public record Developer(
     }
 }
 ```
----
+
 ### Habilidades && Ferramentas
+---
 ---
 <div align="center">
 
@@ -97,7 +98,7 @@ public record Developer(
   <img src="https://streak-stats.demolab.com?user=ASTRO-BOT344&theme=tokyonight&hide_border=false" />
 </p> -->
 
----
+-----
 | ![Estatísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ASTRO-BOT344&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ASTRO-BOT344&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ASTRO-BOT344&theme=radical) |
 |:-:|:-:|:-:|
 
@@ -105,7 +106,8 @@ public record Developer(
 |:-:|:-:|
 
 ###  Certificações
-
+---
+---
 <div align="center">
 
 | Badge | Certificate | Platform | Skills | Year |
@@ -116,16 +118,15 @@ public record Developer(
 
 </div>
 
----
-
-
-
----
+<div align="center">
+    
 ### Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caio-felix-5965032a7)
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caio-felix-5965032a7) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiozzyn.05/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiofelixmaia@gmail.com)
+
+</div>
 
 ---
 
