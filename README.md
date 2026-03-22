@@ -105,6 +105,8 @@ public record Developer(
 | ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASTRO-BOT344&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=ASTRO-BOT344&theme=radical) |
 |:-:|:-:|
 
+![Snake animation](https://github.com/ASTRO-BOT344/ASTRO-BOT344/blob/output/github-contribution-grid-snake.svg)
+
 ###  Certificações
 ---
 ---
