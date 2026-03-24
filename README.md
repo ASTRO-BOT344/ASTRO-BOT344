@@ -7,7 +7,7 @@
 
 
 ---
-###  Sobre mim:
+### 🧭 Sobre mim:
 
 <!--Meu nome é **Caio Felix**. Atualmente, sou graduando em **Engenharia de Software** e estou em processo de conclusão do curso técnico em Desenvolvimento de Sistemas. Apaixonado por tecnologia desde a infância, sempre tive curiosidade em entender o que acontece por trás das telas e como tudo funciona — o famoso **back-end**. Iniciei minha trajetória em **2022** como autodidata em **Python** e, posteriormente, migrei para o **Java**, que hoje é a minha linguagem favorita.--> 
 
@@ -36,7 +36,7 @@ public record Developer(
 }
 ```
 
-### Habilidades && Ferramentas
+### 🗂 Habilidades && Ferramentas
 ---
 ---
 <div align="center">
@@ -79,7 +79,7 @@ public record Developer(
 
 </div>
 
-### Minhas estatísticas no GitHub
+### 📊 Minhas estatísticas no GitHub
 ---
 <!-- <div align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ASTRO-BOT344&show_icons=true&theme=radical&hide_border=false&custom_title=Estatísticas+do+GitHub" />
@@ -106,7 +106,7 @@ public record Developer(
 
 ![Snake animation](https://github.com/ASTRO-BOT344/ASTRO-BOT344/blob/output/github-contribution-grid-snake.svg)
 
-###  Certificações
+### 📜 Certificações
 ---
 ---
 <div align="center">
