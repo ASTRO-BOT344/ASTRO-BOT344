@@ -28,8 +28,7 @@ public record Developer(
             "Resende, RJ — Brasil",
             "Engenheiro de Software & Desenvolvimento de Sistemas",
             List.of("Java", "Python", "Spring Boot", "SQL"),
-            "Estágio / Engenheiro de Software em treinamento",
-            "Automated Pneumatic Systems Specialist 🏆"
+            "Estágio / Engenheiro de Software em treinamento"
         );
 
         System.out.println(caio);
